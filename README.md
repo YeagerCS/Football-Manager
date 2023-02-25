@@ -6,4 +6,4 @@ You have the options to Play a match, View stats and coins, Upgrade your Team, T
 
 ## Code
 It is an Application written in C# with WPF and it is implemented object-oriented.
-The data of the application is serialized using JSON files. These JSON files are saved locally at the path: 
+The data of the application is serialized using JSON files. These JSON files are saved locally at the path: bin/Debug/net6.0-windows/serialization.
